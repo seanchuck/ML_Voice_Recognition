@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImagimobStudio version="0.9">
+  <Timeline id="8a6a2006-1e37-46a0-9448-0bf7f409e0af">
+    <Tracks>
+      <Track name="Serial Capture Data" type="audiowav" isLabelTrack="False" frequency="16000">
+        <PayloadFile>Serial-Capture-Data.wav</PayloadFile>
+      </Track>
+      <Track name="label" type="labelcsv">
+        <PayloadFile>label.label</PayloadFile>
+      </Track>
+    </Tracks>
+  </Timeline>
+</ImagimobStudio>

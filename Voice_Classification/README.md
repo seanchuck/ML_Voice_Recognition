@@ -1,12 +1,18 @@
-# Empty Graph UX Project
+﻿# Empty Classification Project
 
 ## Overview
 
-This is an empty starter project containing an empty canvas for you to start building ML graphs in.
+Classification projects are of type Supervised Learning where a model learns to classify data into a dicrete number of classes.
 
-Get started by opening the Main.imunit file from the Solution Explorer.
+## Contents
 
-Read more in the documentation on how to build ML graphs from scratch here: https://developer.imagimob.com/getting-started/graph-ux-concept.
+`Data` 	- Folder to put your data.
+
+`Units`	- Folder where custom layers and pre-processors can be added
+
+`Models` - Folder where trained models, their predictions and generated Edge code are saved.
+
+`Tools`	- Folder where all extra tools and scripts belonging to the project should be placed. 
 
 ## Getting Started
 
